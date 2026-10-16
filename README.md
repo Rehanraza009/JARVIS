@@ -1,2 +1,2 @@
 # JARVIS
-Personal Assistant 
+Modern Assist
