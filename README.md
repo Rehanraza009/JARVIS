@@ -1,4 +1,4 @@
-# PROJECT JARVIS 2.0 — NATURAL FEMALE AI FRIEND & WINDOWS ASSISTANT
+# JARVIS 2.0 — NATURAL MALE & FEMALE AI FRIEND & WINDOWS ASSISTANT
 ### *Companion, Intellectual Confidant & Real Windows Automation for Rehan Raza*
 
 JARVIS 2.0 is a complete, production-grade upgrade built in Python and PySide6. It features a natural female persona, real-time context-aware conversation in Hindi, Hinglish, and English, a pleasant multilingual neural female voice, hands-free continuous interaction, and real Windows computer control.
